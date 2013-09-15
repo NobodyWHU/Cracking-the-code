@@ -1,4 +1,4 @@
 Cracking-the-code
 =================
 
-Coding Interview 书上面的一些代码，综合了网上的资源和书本后面的答案
+Coding Interview 练习题。包含了书上面的一些代码，以及综合了网上的资源和自己的想法
